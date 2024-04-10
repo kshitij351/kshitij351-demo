@@ -1,4 +1,4 @@
 # kshitij351-demo
 This is my first Git Repository.
 <br>
-Author- kshitij mandloi
+Author- kshitij (Kshitij351)
